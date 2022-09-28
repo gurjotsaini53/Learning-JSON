@@ -1,0 +1,11 @@
+{
+    "Name" : "Gurjot Singh" ,
+    "score"  : 11.88 , 
+    "isMarried" : false  , 
+  "shopItems" :  ["food","oil","chips","kurkure"] , 
+
+  "myObj" : {
+    "name"  : "nested" , 
+    "id" : 2111981078 
+  }
+}
